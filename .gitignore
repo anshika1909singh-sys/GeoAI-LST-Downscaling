@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Landsat / raster data
+*.TIF
+*.tif
+*.TIF.gz
+
+# Local data
+data/raw/landsat/
+data/processed/
+data/output/
+
+# Environment variables
+.env
