@@ -14,10 +14,23 @@ venv/
 *.tif
 *.TIF.gz
 
-# Local data
-data/raw/landsat/
+# Raw satellite data
+data/raw/
+
+# Processed raster data
 data/processed/
+
+# Generated outputs
 data/output/
+data/outputs/
 
 # Environment variables
 .env
+
+# Ignore unwanted Lucknow figures
+# Ignore unwanted Lucknow figures
+figures/lucknow/lst_celsius_lucknow.png
+figures/lucknow/lst_uncertainty_lucknow.png
+figures/lucknow/lucknow_quality_mask.png
+figures/lucknow/red_lucknow.png
+figures/lucknow/nir_lucknow.png
