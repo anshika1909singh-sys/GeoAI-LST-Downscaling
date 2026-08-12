@@ -1,0 +1,4 @@
+Comparison,Mean Absolute Difference,Median Absolute Difference,Maximum Absolute Difference
+RF - TsHARP,0.743877,0.58473396,7.3674736
+XGBoost - TsHARP,0.7367798,0.5809097,7.0660896
+XGBoost - RF,0.17495748,0.13654709,2.8037834
