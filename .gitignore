@@ -38,3 +38,7 @@ figures/lucknow/swir1_lucknow_reflectance.png
 figures/lucknow/swir2_lucknow_reflectance.png
 figures/lucknow/green_lucknow_reflectance.png
 figures/notebook_3/tsharp_absolute_error.png
+
+
+models/rf_Lucknow.joblib
+models/xgb_Lucknow.joblib
