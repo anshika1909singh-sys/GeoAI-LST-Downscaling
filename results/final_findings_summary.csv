@@ -1,0 +1,8 @@
+Finding
+RF and XGBoost show similar spatial test performance.
+RF and XGBoost reproduce the overall mean thermal level closely.
+RF and XGBoost show narrower thermal distributions than the reference.
+TsHARP produces a wider thermal range than the reference.
+"SWIR2, NDBI, and NDVI are the dominant SHAP predictors."
+Higher SWIR2 and NDBI generally contribute positively to predicted LST.
+Higher NDVI generally contributes negatively to predicted LST.
