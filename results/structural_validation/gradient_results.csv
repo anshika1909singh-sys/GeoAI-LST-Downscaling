@@ -1,0 +1,5 @@
+Model,Mean_Gradient
+Reference,1.2278
+TsHARP,1.712
+Random Forest,2.4692
+XGBoost,2.41

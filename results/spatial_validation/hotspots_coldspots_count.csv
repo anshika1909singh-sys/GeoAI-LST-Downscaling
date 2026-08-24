@@ -1,0 +1,5 @@
+Model,Hotspot_pixels,Coldspot_pixels
+Reference,31525,31479
+TsHARP,33286,33486
+Random Forest,25839,30284
+XGBoost,24940,29475
